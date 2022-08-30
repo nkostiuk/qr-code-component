@@ -15,8 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -25,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nkostiuk/qr-code-component)
-- Live Site URL: [Add live site URL here](https://grand-choux-b5dc07.netlify.app/)
+- Solution URL: [Github](https://github.com/nkostiuk/qr-code-component)
+- Live Site URL: [Netlify](https://grand-choux-b5dc07.netlify.app/)
 
 ## My process
 
@@ -37,6 +35,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://github.com/nkostiuk)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nkostiuk)
-- Instagram - [@yourusername](https://www.twitter.com/nitishka)
+- Website - [Nataliia Kostiuk](https://github.com/nkostiuk)
+- Frontend Mentor - [@nkostiuk](https://www.frontendmentor.io/profile/nkostiuk)
+- Instagram - [@ynitishka](https://www.twitter.com/nitishka)
